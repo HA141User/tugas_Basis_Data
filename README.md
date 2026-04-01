@@ -2,10 +2,6 @@
 
 # Simulasi B-Tree dan B+ Tree 🌳
 
-**Tugas Mata Kuliah:** Basis Data Lanjutan  
-**Program Studi:** Sistem Informasi  
-**Oleh:** Muhammad Hairi  
-**NIM:** H071241055
 
 ---
 
